@@ -1,0 +1,17 @@
+$text-color-dark: rgba(0,0,0,0.8);
+$text-color-base: #595959;
+.container {
+  padding: 0 24px;
+}
+
+.main-title {
+  font-weight: bold;
+  font-size: 32px;
+  text-align: center;
+  margin: 12px 0;
+  color: $text-color-dark;
+}
+
+.label {
+  color: $text-color-base;
+}
